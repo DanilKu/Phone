@@ -8,6 +8,8 @@ header h1 {
     padding-right: 10px;
     color: white;
     background-color: #8A74ED;
+    width: 400px;
+    text-align: center;
     
     
     
@@ -22,18 +24,51 @@ header {
 
 }
 
+.gh {
+    color: #78E77D;
+}
+.rh {
+    color: #FA5555;
+}
+.greenit {
+    color: #78E77D;
+}
+
+.hd {
+    display: flex;
+    justify-content: center;
+}
+.hdlinks {
+    display: flex;
+    justify-content: center;
+    
+}
+.aboutbegin {
+    display: flex;
+    justify-content: center;
+}
+.about {
+    display: flex;
+    justify-content: center;
+}
+
 .buttons {
     margin-top: 50px;
     margin-left: 100px;
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
+    text-shadow: black 1px 0.5px 0;
+             
 }
 
 .infotel {
+    margin-left: 100px;
     background-color: #9C88F9;
     padding: 20px;
+    border-radius: 20px;
     color: #FFFFFF;
+    width: 700px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
